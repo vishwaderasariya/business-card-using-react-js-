@@ -11,6 +11,8 @@
   font-family: 'cursive';
   font:bold ;
   padding: 7px 7px 7px 7px;
+  border: 3px solid rgb(22, 3, 22);
+  border-radius: 3px;
 }
 input[type='text'],input[type='email'],input[type='tel'],textarea{
   width: 70%;
@@ -29,6 +31,8 @@ input[type='text'],input[type='email'],input[type='tel'],textarea{
   font-family: 'cursive';
   align-content: center;  
   background-color:  rgb(245, 190, 245) ;
+  border: 3px solid rgb(22, 3, 22);
+  border-radius: 3px;
 }
 
 .card1{
